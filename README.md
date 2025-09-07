@@ -21,17 +21,6 @@ CSS – for styling and layout
 
 JavaScript – for game logic
 
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/saibaba483/tic-tac-toe.git
-
-
-Open the index.html file in your browser
-
-Start playing 🎮
-
 📖 Learning Outcomes
 
 Practiced DOM manipulation with JavaScript
