@@ -28,3 +28,11 @@ Practiced DOM manipulation with JavaScript
 Gained experience in event handling
 
 Improved understanding of game logic
+
+Clone the repository:
+
+git clone: https://saibaba483.github.io/Tic-Tac-Toe-Game/
+
+Open index.html in your browser.
+
+Start playing! 🎉
